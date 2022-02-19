@@ -13,7 +13,7 @@ print(1)
 # 而调用执行时，该语句后的语句不执行
 if __name__ == '__main__':
     print(2)
-
+#efwwefwfwwfw
 
 # print(torch.__version__)
 # print('gpu', torch.cuda.is_available())
