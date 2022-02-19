@@ -2,6 +2,7 @@ import torch
 import numpy
 import matplotlib
 
+print(torch.cuda.is_available())
 a = 4
 b = 4
 a, b = b, a
@@ -35,3 +36,4 @@ if __name__ == '__main__':
 #yeas  change 00:10
 
 #yeas  change 00:20
+#yeas  change 00:2222
