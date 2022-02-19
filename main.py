@@ -15,5 +15,7 @@ if __name__ == '__main__':
     print(2)
 #efwwefwfwwfw
 
+#ffewfwfwfwfw uiuiuiuuuiuiuuiuuuii
+
 # print(torch.__version__)
 # print('gpu', torch.cuda.is_available())
